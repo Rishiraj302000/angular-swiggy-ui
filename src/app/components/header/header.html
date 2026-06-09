@@ -1,0 +1,15 @@
+<header class="header">
+  <div class="container nav">
+    <a href="#home" class="logo">Swiggy</a>
+
+    <nav>
+      <a href="#search">Search</a>
+      <a href="#offers">Offers</a>
+      <a href="#help">Help</a>
+      <a href="#signin">Sign In</a>
+      <a href="#cart" class="cart-link">
+        Cart {{ cartService.getTotalItems() }}
+      </a>
+    </nav>
+  </div>
+</header>
