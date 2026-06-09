@@ -28,7 +28,7 @@ export class RestaurantList {
       time: '30-35 mins',
       price: '₹300 for two',
       priceValue: 300,
-      image: 'https://images.unsplash.com/photo-1563379091339-03246963d96c?w=600'
+      image: 'https://tse3.mm.bing.net/th/id/OIP.k4xC3lQs22-ibkUtKVCYVAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3'
     },
     {
       name: 'Dominos Pizza',
